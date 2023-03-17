@@ -51,7 +51,7 @@
 
         <fragment
             android:id="@+id/counterFragment"
-            android:name=""
+            android:name="com.example.a18_01_2023_fragmentversion2.fragments.CounterFragment"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp" />
